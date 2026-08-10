@@ -31,18 +31,18 @@ function mostrarDescripcion(foto) {
     const descripciones = {
 
         1: {
-            titulo: "Nuestro comienzo ❤️",
-            texto: "Aquí comenzó nuevamente nuestra historia. Un 2 de mayo que terminó convirtiéndose en una fecha muy especial para los dos."
+            titulo: "Nuestro primer viaje ❤️",
+            texto: "Aquí fue nuestro primer viaje fue muy especial para los tres."
         },
 
         2: {
             titulo: "Un momento contigo 💕",
-            texto: "Cada momento contigo se convierte en un recuerdo que quiero guardar para siempre."
+            texto: "Cada momento contigo se convierte en un recuerdo que quiero guardar para siempre en mi memoria."
         },
 
         3: {
-            titulo: "Tu sonrisa 🥰",
-            texto: "Una de las cosas que más me gusta de ti es verte sonreír y saber que puedo compartir esos momentos contigo."
+            titulo: "nosotros 🥰",
+            texto: "Una de las cosas mas sorprendentes que he vivido y me gusta por compartir esos momentos contigo."
         },
 
         4: {
@@ -52,32 +52,32 @@ function mostrarDescripcion(foto) {
 
         5: {
             titulo: "Momentos juntos 💖",
-            texto: "No importa lo que estemos haciendo, mientras sea contigo siempre termina siendo un momento especial."
+            texto: "No importa lo que estemos haciendo, mientras sea juntos siempre termina siendo un momento especial."
         },
 
         6: {
-            titulo: "Mi persona favorita 🥰",
+            titulo: "Mis personas favoritas 🥰",
             texto: "Gracias por todos esos momentos, por las risas, las bromas y por hacer mis días mucho mejores."
         },
 
         7: {
-            titulo: "Otro recuerdo ❤️",
-            texto: "Quiero seguir llenando nuestra historia de momentos como este y muchos más."
+            titulo: "Tú ❤️",
+            texto: "Quiero seguir llenando mi vida de ti, tan sola con tu voz haces que me olvide de las cosas quiero seguir haciendo historia de momentos como este y muchos más."
         },
 
         8: {
-            titulo: "Tú y yo 💕",
-            texto: "Dos personas, muchos recuerdos y una historia que todavía tiene muchísimo por escribir."
+            titulo: "Tú ser único 💕",
+            texto: "sin saber lo que pasaría te has convertido en una de las personas mas importantes en mi vida."
         },
 
         9: {
             titulo: "Para recordar siempre ❤️",
-            texto: "Esta fotografía siempre tendrá un lugar especial entre todos los recuerdos que hemos creado."
+            texto: "Esta fotografía siempre tendrá el lugar más especial entre todos los recuerdos que hemos creado."
         },
 
         10: {
             titulo: "Por muchos más ❤️",
-            texto: "Espero que esta sea solamente una de las muchas fotografías que todavía nos faltan por tomar juntos."
+            texto: "Esta es solamente una de las muchas fotografías que le tenes que sacar a los anillos que hacen falta."
         }
 
     };
