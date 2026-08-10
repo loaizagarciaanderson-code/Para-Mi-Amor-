@@ -197,12 +197,46 @@ transform:translateY(120vh);
     color: #d6336c;
 }
 
+.contenido-modal {
+    background: #fff;
+    color: #333;
+    max-width: 450px;
+    width: 100%;
+    padding: 30px;
+    border-radius: 25px;
+    text-align: center;
+    position: relative;
+    animation: aparecer 0.3s ease;
+}
+
+.contenido-modal h2 {
+    color: #d6336c !important;
+    font-size: 26px;
+}
+
 .contenido-modal p {
+    color: #333 !important;
+    background: transparent;
     font-size: 18px;
     line-height: 1.6;
+    display: block;
+    visibility: visible;
+    opacity: 1;
+}
+
+.contenido-modal button {
+    background: #d6336c;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 16px;
 }
 
 .cerrar {
+    color: #d6336c !important;
+}
     position: absolute;
     right: 18px;
     top: 8px;
